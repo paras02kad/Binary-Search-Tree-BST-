@@ -1,0 +1,12 @@
+1.Finding a given value in the given BST.(LC-700)
+2.Inserting a given node of given value at its correct place in the given BST.(LC-701)
+3.Basic Traversals of BST -->Pre,In,Post.
+4.Did some basic MCQs.
+5.Finding Lowest Common Ancestor-(LCA).(LC-235)--(Exactly same as Binary Tree (LC-236))
+  But Stored answer in file is most correct and slightly different from lc236.
+6.To check whether a given tree is a perfect BST or not.(LC-98) -> with two methods.
+7.We used Reverse InOrder Traversal to calculate sum of given nodes in BST.(LC-1038).
+8.We converted a given sorted array to a BST with an approach similar to Binary Search.(LC-108)
+9.To make a BST out of given array in preOrder Format.(LC-1008)
+10.Need to complete point - 9 with approach - 1.
+
